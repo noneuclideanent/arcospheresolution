@@ -1,7 +1,7 @@
 # arcospheresolution
 Factorio Space Exploration Arcosphere Folding Solution
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+![alt text](https://github.com/noneuclideanent/arcospheresolution/blob/main/Tesseract.png?raw=true)
 
 This solution consists of calculated series of folds which produce a single type of arcosphere product and return the arcospheres back to their original configuration.
 Since each arcosphere product process results in two type of outputs each product has two distinct folding solutions. Therefore each product requires two tracked chains of folds and to dynamically switch from one to the other based on the output of the product process. For example:
