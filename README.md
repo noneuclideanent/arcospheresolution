@@ -18,6 +18,5 @@ with 0 being the product process and the other numbers representing arcosphere f
 You make one product and get the output for side b. So you run 2,1,4,4,0. Now you get the output for side a, so you run 1,2,3,4,0. b again, 2,4,4,0. b again, 1,2,4,0. a this time: 0,1,2,3,4,0. b, 2,1,4,4,0. Each side of the folding process is individually tracked and picks back up from where it left off.
 
 ![alt text](https://github.com/noneuclideanent/arcospheresolution/blob/main/arcospheres_authoritative.jpg?raw=true)
-https://www.youtube.com/watch?v=gx9QO0yeGt0
 
-[![Arcosphere Bliss - Tesseract](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Arcosphere Bliss - Tesseract](https://img.youtube.com/vi/gx9QO0yeGt0/0.jpg)](https://www.youtube.com/watch?v=gx9QO0yeGt0)
